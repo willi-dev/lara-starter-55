@@ -27,6 +27,8 @@ class HomeController extends Controller
         return view('admin.templates.home');
     }
 
+
+    // for template reference
     public function templateEmail()
     {
         return view('admin.templates.email');
