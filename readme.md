@@ -1,6 +1,6 @@
 ## About Lara-Starter-55
  
-Starter for Laraver 5.5 Project
+Starter for Laravel 5.5 Project
 
 - Authentication use laravel based auth
 
